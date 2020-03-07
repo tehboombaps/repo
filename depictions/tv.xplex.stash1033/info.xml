@@ -1,0 +1,36 @@
+<package>
+	<id>tv.xplex.stash1033</id>
+	<name>Stashing for iOS 9.2 - 10.3.3 (32bit)</name>
+	<version>1.5.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Stash 3rd party  components to make more space for them!</description>
+	</descriptionlist>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<version>1.5.0</version>
+		<change>First release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
